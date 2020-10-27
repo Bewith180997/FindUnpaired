@@ -5,7 +5,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 @DisplayName("'Test 04' Unit Testing")
-class Tester04 {
+class FindUnpairedTester {
 	
 	//Normal Cases
 	@Test
