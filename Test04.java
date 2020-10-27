@@ -1,5 +1,5 @@
 
-public class Test04{
+public class FindUnpaired{
 	
 	
 	static int[] list = {1, 2, 4, 2, 1};
